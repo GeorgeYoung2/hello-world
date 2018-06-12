@@ -1,4 +1,5 @@
 # hello-world
 my first repository
 and it is the tutorial 
-glad to be part of github
+
+and now I'm trying to learn how to use it.
